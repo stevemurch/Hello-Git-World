@@ -13,6 +13,7 @@ namespace HelloGitWorld.Samples
         /// </summary>
         public void Bark()
         {
+            // here comes the big one.
             Console.WriteLine("Woof!");
         }
 
