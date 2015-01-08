@@ -12,6 +12,7 @@ namespace HelloGitWorld
         {
             Console.WriteLine("Hello Git World. Press a key to continue...");
             Console.ReadKey();
+            Console.WriteLine("Voila!");
         }
     }
 }
