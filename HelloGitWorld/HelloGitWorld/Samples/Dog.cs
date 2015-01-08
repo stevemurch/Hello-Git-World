@@ -10,7 +10,7 @@ namespace HelloGitWorld.Samples
     {
         public void Bark()
         {
-            Console.WriteLine("Woof");
+            Console.WriteLine("Woof!");
         }
     }
 }
