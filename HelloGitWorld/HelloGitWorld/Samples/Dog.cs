@@ -15,5 +15,10 @@ namespace HelloGitWorld.Samples
         {
             Console.WriteLine("Woof!");
         }
+
+        public void Meow()
+        {
+            throw new NotImplementedException();;
+        }
     }
 }
