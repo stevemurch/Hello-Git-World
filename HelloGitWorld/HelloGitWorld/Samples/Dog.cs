@@ -8,6 +8,9 @@ namespace HelloGitWorld.Samples
 {
     public class Dog
     {
+        /// <summary>
+        /// Makes a sound.
+        /// </summary>
         public void Bark()
         {
             Console.WriteLine("Woof!");
